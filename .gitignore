@@ -191,4 +191,5 @@ docs/notebooks/embeddings
 docs/notebooks/embeddings/*
 docs/notebooks/checkpoints
 docs/notebooks/checkpoints/*
+stream_topic/data/
 stream_topic/data/*
